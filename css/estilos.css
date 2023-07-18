@@ -165,6 +165,7 @@ p .apell {
     opacity: 0.8;
     padding: 10px 0;
     border-radius: 3%;
+    width: 100%;
 }
 
 .text-about {
